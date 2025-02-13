@@ -19,7 +19,8 @@ This is a simple **Weather App** that allows users to check real-time weather co
 3. View real-time weather details.
 
 ## 📸 Screenshots
-![Weather App Preview](Images/weather-app-preview.png) 
+## 📸 Screenshots
+[![Weather App Preview](Images/weather-app-preview.png)](https://github.com/Tharushi-Nathasha/Weather-Application)
 
 ## 📦 Installation & Setup
 1. Clone the repository:
